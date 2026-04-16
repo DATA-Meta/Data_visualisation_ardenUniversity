@@ -11,7 +11,6 @@
 # Add a title: “GDP vs Life Expectancy (2007)”
 # Hover over points to see details.
 # Hints
-# _
 # import plotly.express as px
 # _
 # df = px.data.gapminder()
